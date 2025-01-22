@@ -8,6 +8,7 @@
   "dependencies": {
     "@prisma/client": "^6.2.1",
     "@prisma/extension-accelerate": "^1.2.1",
+    "@raykarsagar2005/inkspire-common": "^1.0.0",
     "hono": "^4.6.17",
     "jsonwebtoken": "^9.0.2",
     "prisma": "^6.2.1"
